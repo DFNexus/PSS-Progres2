@@ -1,0 +1,331 @@
+[
+{
+  "model": "lms.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$d0Z9t2B42xnSCEAI4qSEVk$8GJlSG984IVI5LAXYE9qCbZi4urIhJVmULBnGZo+VgI=",
+    "last_login": "2026-04-06T05:05:08Z",
+    "is_superuser": true,
+    "username": "arrel",
+    "first_name": "nendra",
+    "last_name": "arrel",
+    "email": "111202315025@mhs.dinus.ac.id",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-06T05:00:05Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$TI90POobS3JnNORf8UCLEF$pOMLrr4q2mc3J/qyl5buSttBsVKTnjEUoWD4URB7yB8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "SuryoDiningrat",
+    "first_name": "Suryo",
+    "last_name": "Diningrat",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T05:18:18Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$UHtcJe4TTwGMVOfXMiSXCE$Y/zPWIv/ylm6xU3QEDj1C0Va4LWZSoEOwXW/VWPjzTM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Rustam",
+    "first_name": "Ruastam",
+    "last_name": "Adi",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-06T05:42:44Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$TB56t5BoAiCnv8AKCTzV5v$Jf2Eim4+VV04NCYnIdLLv0pvf3E1LfOTa7LgI9+5XTE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Yadi",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T05:46:01.267Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$n8meKiR0njdfKeG8QlNcUH$iJ3DVWeDlaisuDbzSPin8WWVfoWQ9PTTqBVLb2UonIo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Haryoko",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T06:57:37.842Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$DxG8ZvD7tE5omxBFL9eicQ$lknMb6VyTr+PjQvYGrDQOj9nxikv7WRXSuTGwAUIhVI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Ngadimin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T06:58:16.849Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$gktR7sxNr0uEqhkSxLApFo$0OdYuhjIG2bNaM+rof9iAhbY38fnuGp9o0voNB5JhM8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Martono",
+    "first_name": "Martono",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-06T06:58:39Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$JBr4Pzsa03ejRuCcYmpMhw$y2K8AHaLx6CB5Nn2o/FR6wSt8W6ieh2irWLWMJaPEfI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Rusdi",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-06T07:00:26Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "lms.category",
+  "pk": 4,
+  "fields": {
+    "name": "Network",
+    "parent": null
+  }
+},
+{
+  "model": "lms.category",
+  "pk": 5,
+  "fields": {
+    "name": "Pemrograman",
+    "parent": null
+  }
+},
+{
+  "model": "lms.category",
+  "pk": 6,
+  "fields": {
+    "name": "Artificial Intelligence",
+    "parent": null
+  }
+},
+{
+  "model": "lms.course",
+  "pk": 1,
+  "fields": {
+    "title": "DevSecOps",
+    "instructor": 4,
+    "category": 4
+  }
+},
+{
+  "model": "lms.course",
+  "pk": 2,
+  "fields": {
+    "title": "Python for Backend",
+    "instructor": 9,
+    "category": 5
+  }
+},
+{
+  "model": "lms.course",
+  "pk": 3,
+  "fields": {
+    "title": "Artificial Intelligence",
+    "instructor": 8,
+    "category": 6
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 1,
+  "fields": {
+    "course": 1,
+    "title": "Implementasi DevSecOps Dasar",
+    "content": "Penjelasan apa itu DevSecOps dan perbedaannya dengan DevOps tradisional.",
+    "order": 1
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 2,
+  "fields": {
+    "course": 1,
+    "title": "Pelajaran 1: Intro",
+    "content": "Implementasi Static Application Security Testing pada CI/CD Pipeline.",
+    "order": 2
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 3,
+  "fields": {
+    "course": 1,
+    "title": "Pelajaran 2: SAST (Static Application Security Testing)",
+    "content": "Cara menjalankan Dynamic Analysis menggunakan ZAP di server Debian.",
+    "order": 3
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 4,
+  "fields": {
+    "course": 2,
+    "title": "Basic Sintaks Python",
+    "content": "Sintaks Dasar Bahasa Pemrograman Python",
+    "order": 1
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 5,
+  "fields": {
+    "course": 2,
+    "title": "Python Library",
+    "content": "pengenalan Library Python",
+    "order": 2
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 6,
+  "fields": {
+    "course": 2,
+    "title": "Python Struktur Data",
+    "content": "Penggunakan bahasa pemrograman Python untuk Data",
+    "order": 3
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 7,
+  "fields": {
+    "course": 3,
+    "title": "Machine Learning",
+    "content": "Mempelajari cara mesin belajar dari data tanpa diprogram secara eksplisit (Supervised, Unsupervised, dan Reinforcement Learning).",
+    "order": 1
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 8,
+  "fields": {
+    "course": 3,
+    "title": "Natural Language Processing",
+    "content": "Teknik AI agar mesin memahami, menginterpretasi, dan menghasilkan bahasa manusia (contoh: Chatbot, terjemahan otomatis).",
+    "order": 2
+  }
+},
+{
+  "model": "lms.lesson",
+  "pk": 9,
+  "fields": {
+    "course": 3,
+    "title": "Computer Vision",
+    "content": "Teknik agar mesin dapat melihat dan menganalisis visual, seperti gambar atau video (contoh: Face Recognition, Object Detection).",
+    "order": 3
+  }
+},
+{
+  "model": "lms.enrollment",
+  "pk": 1,
+  "fields": {
+    "student": 3,
+    "course": 1,
+    "enrolled_at": "2026-04-06T06:45:15.559Z"
+  }
+},
+{
+  "model": "lms.enrollment",
+  "pk": 2,
+  "fields": {
+    "student": 5,
+    "course": 2,
+    "enrolled_at": "2026-04-06T07:23:54.529Z"
+  }
+},
+{
+  "model": "lms.enrollment",
+  "pk": 3,
+  "fields": {
+    "student": 6,
+    "course": 3,
+    "enrolled_at": "2026-04-06T07:24:16.785Z"
+  }
+},
+{
+  "model": "lms.enrollment",
+  "pk": 4,
+  "fields": {
+    "student": 7,
+    "course": 1,
+    "enrolled_at": "2026-04-06T07:24:23.855Z"
+  }
+}
+]
