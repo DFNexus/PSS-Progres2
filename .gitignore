@@ -1,5 +1,19 @@
-.env
-staticfiles/
+# Python
 __pycache__/
-*.pyc
-db.sqlite3
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.env
+
+# Database (Sangat Penting!)
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Media/Static (Jika ada upload)
+media/
